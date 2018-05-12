@@ -1,0 +1,31 @@
+_repo: The-Bertrams_26001
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: Postponing the banking career his uncle is foisting on him, George Bertram
+  journeys to the Middle East, where he reunites with his distant father, and plunges
+  into a wayward romance.
+gutenberg_issued: '2008-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scholars -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+title: The Bertrams
+url: http://www.gutenberg.org/ebooks/26001
